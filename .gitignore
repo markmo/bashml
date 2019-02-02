@@ -1,0 +1,7 @@
+*vocab.txt
+vocab*
+*.csv
+!data/train.csv
+weights*
+*.pyc
+shuffled.txt
