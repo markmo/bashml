@@ -4,26 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d0604e5-a504-4bd3-889f-fccc84699b6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/bashml.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/d777710.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bashml.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logreg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pp.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/predict.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shuffled.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train.sh" afterDir="false" />
-    </list>
+    <list default="true" id="9d0604e5-a504-4bd3-889f-fccc84699b6b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="144">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -59,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -68,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/bashml.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="689">
-              <caret line="776" column="2" lean-forward="true" selection-start-line="776" selection-start-column="2" selection-end-line="776" selection-end-column="2" />
+              <caret line="776" column="2" selection-start-line="776" selection-start-column="2" selection-end-line="776" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -76,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="960">
               <caret line="48" column="46" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="46" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -265,12 +246,12 @@
       <workItem from="1548276316658" duration="2421000" />
       <workItem from="1548298435669" duration="29361000" />
       <workItem from="1548584075223" duration="3666000" />
-      <workItem from="1549065112208" duration="4461000" />
+      <workItem from="1549065112208" duration="4640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50636000" />
+    <option name="totallyTimeSpent" value="50815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="977" extended-state="0" />
@@ -506,16 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="48" column="46" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/train.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
@@ -526,22 +497,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="48" column="46" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bashml.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="689">
-          <caret line="776" column="2" lean-forward="true" selection-start-line="776" selection-start-column="2" selection-end-line="776" selection-end-column="2" />
+          <caret line="776" column="2" selection-start-line="776" selection-start-column="2" selection-end-line="776" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
     </entry>
   </component>
 </project>
