@@ -15,6 +15,7 @@ The reason for the exercise was:
 * Educating that ML is as much technique as tool
 * Learn Bash to a deeper extent (given it is occasionally useful)
 * Review understanding of the basics of ML mechanics
+* As a distraction on a long plane trip; no internet, but `man` at hand
 
 Nothing like attempting to implement an ML algorithm in a simple language (in this
 case, one without native support for multidimensional arrays or even floating point
